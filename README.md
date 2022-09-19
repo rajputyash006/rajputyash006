@@ -1,4 +1,4 @@
-<img width="100%" height="300px" src="https://www.dignited.com/wp-content/uploads/2022/08/top10lan.jpg">
+<img width="100%" height="300px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b41e1e27075137.5635f8edb514a.gif">
 <h1 align="center">Hi 👋, I'm Yash Rajput</h1>
 <h3 align="center">Aspiring Java Backend Developer</h3>
 
