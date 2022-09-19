@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Yash Rajput</h1>
 <h3 align="center">Aspiring Java Backend Developer</h3>
 
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajputyash006&label=Profile%20views&color=0e75b6&style=flat" alt="rajputyash006" /> </p>
 
 - 🌱 I’m currently learning **Java Backend Development**
