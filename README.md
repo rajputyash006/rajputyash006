@@ -1,3 +1,4 @@
+<img width="100%" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif">
 <h1 align="center">Hi 👋, I'm Yash Rajput</h1>
 <h3 align="center">Aspiring Java Backend Developer</h3>
 
