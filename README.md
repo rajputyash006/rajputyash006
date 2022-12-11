@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajputyash006&show_icons=true&locale=en&theme=github_dark" alt="rajputyash006" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajputyash006&theme=github-dark-blue&sideNums=DDDDDD" alt="rajputyash006" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark" alt="rajputyash006" /></p>
