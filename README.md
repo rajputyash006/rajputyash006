@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://rajputyash006.github.io/index.html](https://rajputyash006.github.io/index.html)
+- 👨‍💻 All of my projects are available at https://rajputyash006.github.io/
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java**
 
